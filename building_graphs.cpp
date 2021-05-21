@@ -1,6 +1,6 @@
 /* 
 *  Building graphs
-*  @author Aliaksei Korshuk
+*  @author Aleksey Korshuk
 *  @version 1.0
 *  @since   2021-04-17
 */
